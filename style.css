@@ -1,0 +1,27 @@
+#val {
+    color: red;
+    font-size: 50px;
+    text-align: center;
+    text-overflow: inherit;
+    text-shadow: 30px;
+    
+
+}
+#love {
+    color: red;
+    font-style: bold;
+    font-size: 25pt;
+    text-align: center;
+}
+
+#day {
+    color: red;
+    font-size: 30px;
+    text-align: center;
+    
+}
+
+body{
+    background-image: url(/images/Valentine.jpg);
+}
+
